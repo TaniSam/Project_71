@@ -1,0 +1,75 @@
+#marquee-style {
+    background-color: limegreen;
+    width: 100%;
+    direction: right;
+    height: 20px;
+    color: beige;
+    font-size: 120%;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#map iframe {
+    width: 100%;
+    padding-top: 10px;
+}
+
+
+
+#video {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+i {
+    float: right;
+}
+
+#bar {
+
+    width: 80%;
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.advantage {
+    margin-top: 13px;
+}
+
+.disadvantage {
+    margin-top: 13px;
+}
+
+.advantage h4 {
+
+    border-bottom: 1px solid white;
+    padding: 8px;
+    text-align: left;
+}
+
+.disadvantage h4 {
+
+    border-bottom: 1px solid white;
+    padding: 8px;
+    text-align: left;
+}
+
+.css {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.Gry{
+    cursor:pointer;
+}
+.Gry hr{
+    margin-bottom: 10px;
+}
